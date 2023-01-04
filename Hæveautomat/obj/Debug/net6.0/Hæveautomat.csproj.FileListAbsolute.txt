@@ -1,0 +1,15 @@
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\bin\Debug\net6.0\Hæveautomat.exe
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\bin\Debug\net6.0\Hæveautomat.deps.json
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\bin\Debug\net6.0\Hæveautomat.runtimeconfig.json
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\bin\Debug\net6.0\Hæveautomat.dll
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\bin\Debug\net6.0\Hæveautomat.pdb
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.csproj.AssemblyReference.cache
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.AssemblyInfo.cs
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.dll
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\refint\Hæveautomat.dll
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.pdb
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\Hæveautomat.genruntimeconfig.cache
+C:\Users\PhilipJensen\development\Hæveautomat\Hæveautomat\obj\Debug\net6.0\ref\Hæveautomat.dll
